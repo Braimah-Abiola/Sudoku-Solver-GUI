@@ -1,4 +1,4 @@
-# GUI.py
+# Import all required modules 
 import pygame
 import time
 pygame.font.init()
